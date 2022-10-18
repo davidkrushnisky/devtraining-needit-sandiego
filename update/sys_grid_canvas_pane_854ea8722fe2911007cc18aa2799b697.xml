@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Open Incidents Heatmap">744ea4fe2fa2911007cc18aa2799b6c3</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2015-10-26 08:05:59">d5e37556d7d30200b96d45a3ce610372</portal_widget>
+        <posx>10</posx>
+        <posy>20</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-18 14:56:37</sys_created_on>
+        <sys_id>854ea8722fe2911007cc18aa2799b697</sys_id>
+        <sys_name>744ea4fe2fa2911007cc18aa2799b6c3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_854ea8722fe2911007cc18aa2799b697</sys_update_name>
+        <width>2</width>
+    </sys_grid_canvas_pane>
+</record_update>
